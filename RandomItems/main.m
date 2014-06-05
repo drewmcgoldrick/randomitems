@@ -37,6 +37,7 @@ int main(int argc, const char * argv[])
         NSLog(@"%@", itemWithNoName);
               
         items = nil;
+        
     }
     return 0;
 }
